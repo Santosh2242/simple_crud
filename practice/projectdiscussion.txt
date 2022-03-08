@@ -1,0 +1,61 @@
+Vendor 
+  |register
+     login  1. add category 2. add product 
+
+Admin 
+     login 1. New Vendor Create 2. 
+              Verified by Admin
+              user name and password 
+              email using mailtrap.io 
+            2. verify and approve 
+            3. verify the product. hide and show
+            4. Add label to the product (Trending, Hot, Recommended,latest)
+
+user: 
+    register | login | 
+        1. product Add to cart
+        2. Buy Directly
+        3. wish list.
+
+    <--------Order Section--------->
+    1. Qty 
+    2. Add Knife, Add Baloon, Add Candles, Add Pinata,
+        array(
+            'knife'=>10,
+            'baloon'=>50,
+            'candles'=>10,
+            'pinata'>50,
+        )  
+    3. Message :_______________
+    Proceed 
+    ----------------------------------
+    Add Address Details:-
+    []
+    _________________________
+    __________________________
+    __________________________
+    Checkout 
+
+    o cash on Delivery o online
+    view All order
+    1. User 
+    2. Admin All
+    3. Vendor His/Product 
+
+   
+
+
+        
+Common Functionality 
+1. update profile.
+2. change password.
+3. deactivate Activate.
+4. forget password 
+
+
+
+
+
+
+
+
